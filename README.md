@@ -14,7 +14,5 @@ This is a solution to the [Chat app CSS illustration challenge on Frontend Mento
 
 ## Author
 
-- Website - [Ivan Atias](https://ivanatias.dev)
+- Website - [Ivan Atias](https://ivanatias.codes)
 - Frontend Mentor - [@ivanatias](https://www.frontendmentor.io/profile/ivanatias)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
